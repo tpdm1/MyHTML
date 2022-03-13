@@ -9,6 +9,7 @@ h3
 h4
 {
 	text-align:left ;
+	
 }
 p
 {
@@ -25,8 +26,20 @@ body
 	background-repeat: no-repeat;
 	
 }
-.background-image
+span
 {
-	opacity: 0.1;
-	
+	border: 1px dashed;
+}
+a:hover /*Quand le visiteur passe sur le lien change de couleur*/
+{
+	text-decoration: underline;
+	color: blueviolet;
+}
+a:active 
+{
+	background-color: #FFCC66; /*Appluqer cette couleur*/
+}
+a:visited /*Quand le visiteur a déjà vu la page concernée*/
+{
+	color: gray;
 }
