@@ -28,5 +28,5 @@ body
 img background-image
 {
 	opacity: 0.3;
-	filter: alpha(opacity=40);
+	filter: alpha(opacity=20);
 }
