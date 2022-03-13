@@ -22,4 +22,5 @@ footer
 body
 {
 	background-image: url("OIP.jfif");
+	background-repeat: no-repeat;
 }
