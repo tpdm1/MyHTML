@@ -23,4 +23,5 @@ body
 {
 	background-image: url("Background-Images.jpg");
 	background-repeat: no-repeat;
+	opacity: 0.3;
 }
