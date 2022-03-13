@@ -1,1 +1,20 @@
-﻿
+﻿h1
+{
+	text-align:center;
+}
+h3
+{
+	text-align:justify ;
+}
+h4
+{
+	text-align:right ;
+}
+p
+{
+	text-align:left ;
+}
+footer
+{
+	text-align:right ;
+}
