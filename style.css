@@ -25,7 +25,7 @@ body
 	background-repeat: no-repeat;
 	
 }
-img background-image
+.background-image
 {
 	opacity: 0.1;
 	filter: alpha(opacity=10);
